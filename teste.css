@@ -1,0 +1,38 @@
+.span-1, .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1{
+    color: #85037a;
+
+}
+
+.span-2{
+    color:#e605d3
+}
+
+
+img{
+    width: 80px;
+}
+
+
+.header{
+    padding: 20px;
+}
+
+.links{
+    display: inline;
+    margin-left: 480px;
+}
+
+
+.links a{
+    margin-left: 15px;
+    text-decoration:none ;
+    font-weight:bold ;
+    color:black ;
+    padding: 3px;
+}
+
